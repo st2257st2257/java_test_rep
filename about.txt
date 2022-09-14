@@ -1,0 +1,7 @@
+Classes:
+static - mathod of class that u are able to call inside class without creation new interfases
+public - method that u can call with interfase
+static public - s+p
+
+
+
